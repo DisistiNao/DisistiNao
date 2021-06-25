@@ -4,9 +4,9 @@
 <p>Belo Horizonte, MG</p>
 
 <h2 align="left">About me:</h2>
-- 😄 Nicknames: Salada, Saldanha
-- 🌱 I’m currently learning ReactJs and Node.js
-- 📫 How to reach me: **gabrielsaldanha373@gmail.com**
+- 😄 Nicknames: Salada, Saldanha <br>
+- 🌱 I’m currently learning ReactJs and Node.js <br>
+- 📫 How to reach me: **gabrielsaldanha373@gmail.com** <br>
 
 <h2 align="left">Languages:</h2>
 <p align="left">
