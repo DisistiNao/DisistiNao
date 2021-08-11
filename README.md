@@ -1,4 +1,4 @@
-<h1 align="center">Hi dear, I'm Gabriel Saldanha</h1>
+<h1 align="center">Hi, I'm Gabriel Saldanha</h1>
 
 <p>Computer network student at CEFET-MG</p>
 <p>Belo Horizonte, MG</p>
