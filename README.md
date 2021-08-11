@@ -17,7 +17,16 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
 </p>
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=disistinao&layout=compact /> </p>
+<div>
+  <a href="https://github.com/disistinao">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=disistinao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=disistinao&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+  ##
+ 
+![Snake animation](https://github.com/disistinao/disistinao/blob/output/github-contribution-grid-snake.svg)
+<!-- <p align="center"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=disistinao&layout=compact /> </p> -->
 <!--
 **DisistiNao/DisistiNao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
