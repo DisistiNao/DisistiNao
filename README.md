@@ -3,11 +3,6 @@
 <p>Computer network student at CEFET-MG</p>
 <p>Belo Horizonte, MG</p>
 
-<h2 align="left">About me:</h2>
-- 😄 Nicknames: Salada, Saldanha <br>
-- 🌱 I’m currently learning ReactJs and Node.js <br>
-- 📫 How to reach me: gabrielsaldanha373@gmail.com <br>
-
 <h2 align="left">Languages:</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="40" height="40"/>
