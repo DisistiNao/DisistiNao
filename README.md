@@ -2,6 +2,7 @@
 
 <p>Full Stack Developer</p>
 <p>Computer Network Technician at CEFET-MG</p>
+<p>Science Computer Student at UFOP</p>
 <p>Brazil, Belo Horizonte, MG</p>
 
 <h2 align="left">Languages and Tools:</h2>
