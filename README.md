@@ -26,16 +26,6 @@
   Compilers • Programming Languages • Theorem Proving • Functional Programming • Program Optimization • Blockchain
 </p>
 
----
-
-<div align="center">
-  <a href="https://github.com/disistinao">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=disistinao&layout=compact&theme=react"/>
-  </a>
-</div>
-
----
-
 <h2 align="left">📫 Contact</h2>
 <p align="left">
   <a href="mailto:gabrielsaldanha373@gmail.com" target="_blank">
